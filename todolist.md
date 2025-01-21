@@ -8,4 +8,8 @@
 # TODO 20/01/2025
 - [ ] Développer sur les technologies présentes et pourquoi webgpu
 - [ ] Développer les axes envisageables
-- [x] ..?
+- [x] Méthodes de rendu
+
+# TODO 21/01/2025
+- [ ] Progresser
+- [ ] Développer sur les technologies présentes et ce qui a été fait

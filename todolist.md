@@ -11,5 +11,9 @@
 - [x] Méthodes de rendu
 
 # TODO 21/01/2025
+- [x] Progresser
+- [ ] Développer sur les technologies présentes et ce qui a été fait
+
+- # TODO 22/01/2025
 - [ ] Progresser
 - [ ] Développer sur les technologies présentes et ce qui a été fait

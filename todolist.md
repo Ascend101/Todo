@@ -25,3 +25,6 @@
 # TODO 24/01/2025
 - [x] Développer sur les technologies présentes et pourquoi webgpu
 - [x] Conclure
+
+# TODO 25/01/2025
+- [x] fixer de nouveaux objectifs

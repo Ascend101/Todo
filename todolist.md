@@ -28,3 +28,15 @@
 
 # TODO 25/01/2025
 - [x] fixer de nouveaux objectifs
+
+# TODO 28/01/2025
+- [x] Update anki cards
+
+# TODO 29/01/2025
+- [x] Planifier
+- [x] Progresser
+
+# TODO 30/01/2025
+- [x] Sim Nuages
+- [x] NLP
+- [ ] IA JEUX
